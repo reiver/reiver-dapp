@@ -1,0 +1,36 @@
+wiki/1
+
+§ Web-Browser Based Wallets Versus Moble App Based Wallets
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2024-05-08T14:37:39-07:00
+
+I asked //AC// the question:
+
+― Do you have an opinion of why most crypto people are more likely to trust a web-browser extension rather than a mobile app?
+
+The response from //AC// was:
+
+― DeFi apps require a higher level of attention than payment apps do. 
+―  
+― Take a bank app or payment app as an example. 
+― I use Venmo to send money. 
+― I use the BOA app to send money. 
+― I use my mobile MM to send USDC (a form of money). 
+―  
+― They all do 1 thing, send money. I can be distracted and it'll be ok. 
+―  
+― BUT if I'm aping into a 5,000% APY farm that'll last a couple hours. Or I'm working with larger amounts. There's a certain level of due dilligence that I do in that moment: 
+― - I manually look for SC addresses 
+― - I check if they're verified on Etherscan 
+― - I google the team members, if they're legit or some anons 
+― - I check their Discord, TG for rug signals 
+―  
+― You can't do all that on the phone, I mean you could but its easier if you have TG, discord, chrome all open at the same time 
+―  
+― ❦ 
+―  
+― Then there's accounting, I typically use a spreadsheet or my system calculator to calculate the APR and determine ROI. I also need to record all that for tax reasons. 
+―  
+― TLDR, investing in DeFi is an active effort, more active than applying for a traditional bank loan.
