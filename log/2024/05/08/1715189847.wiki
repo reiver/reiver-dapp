@@ -1,0 +1,50 @@
+wiki/1
+
+§ Why Invest In Farcaster
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2024-05-08T10:37:27-07:00
+
+I asked a number of people a [[dapp]] [[start-up]] related question about [[farcaster]] —
+
+― //Why did you// or //why would you have// invested in Farcaster?
+
+These are the responses I got —
+
+//OK// (who did invest in Farcaster) said:
+
+― The reason I invested in farcaster is — the team.
+― There is no better team than dan/varun to do this.
+
+//ER// (who didn't invest in Farcaster, but did invest in a developer platform that offers services to developers who are building on Farcaster) said:
+
+― I didn't invest in farcaster but I wish I had. 
+―  
+― №1: they have a strong founding team with a track record of success, 
+―  
+― №2: they are a more crypto native approach to decentralized social than the fediverse / mastodon and bluesky, and 
+―  
+― №3: they have a good product experience from day 1. 
+
+//CW// said:
+
+― I am one of the earliest users of farcaster. To me decentralized social concepts need clear **financial rails** and a **portable social graph**. 
+―  
+― The [[fediverse]] never resonated with me because of 2 reasons — 
+―  
+― №1: the user being //at the server admin's mercy// felt worse than being //at a client's mercy//, and 
+―  
+― №2: the fact that commerce seemed to be so frowned upon (on the Fediverse) made me see no viable pah for small-scale people. 
+―  
+― On the investor side, [[socialfi]] is a massive part of what is driving farcaster fomo (fear-of-missing-out). 
+―  
+― The graph is open enough that everyone is building social gambling games of various varieties 
+―  
+― Many in crypto believe highly in speculation and attention at all costs. **SocialFi** is the candy buzz word for all that. 
+―  
+― The Fediverse defaults, or at least appears to default, to anti-commerce. That really hurts its perception among tech investors in my opinion. 
+―  
+― Also, Dan is incredibly hooked up in investor circles from the start. Many investors act like lemmings. 
+―  
+― Everyone uses the phrase “capital is the new labour” now. It is a common phrase I see investors echoing.
