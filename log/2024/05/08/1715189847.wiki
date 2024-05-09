@@ -12,6 +12,8 @@ I asked a number of people a [[dapp]] [[start-up]] related question about [[farc
 
 These are the responses I got —
 
+(And, I am going to keep this //pseudonymous//.)
+
 //OK// (who did invest in Farcaster) said:
 
 ― The reason I invested in farcaster is — the team.
@@ -27,7 +29,7 @@ These are the responses I got —
 ―  
 ― №3: they have a good product experience from day 1. 
 
-//CW// said:
+//CEW// said:
 
 ― I am one of the earliest users of farcaster. To me decentralized social concepts need clear **financial rails** and a **portable social graph**. 
 ―  
@@ -35,7 +37,7 @@ These are the responses I got —
 ―  
 ― №1: the user being //at the server admin's mercy// felt worse than being //at a client's mercy//, and 
 ―  
-― №2: the fact that commerce seemed to be so frowned upon (on the Fediverse) made me see no viable pah for small-scale people. 
+― №2: the fact that commerce seemed to be so frowned upon (on the Fediverse) made me see no viable path for small-scale people. 
 ―  
 ― On the investor side, [[socialfi]] is a massive part of what is driving farcaster fomo (fear-of-missing-out). 
 ―  
