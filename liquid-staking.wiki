@@ -1,0 +1,91 @@
+wiki/1
+
+§ Liquid Staking
+
+⸺ by Charles Iliya Krempeaux
+
+**Liquid Staking** is a concept associated with [[defi]] and [[dapp]]s.
+
+This will take a bit of explaining.
+
+§§ Database
+
+In [[infotech]], [[database]]s are very very common.
+
+Many [[application]]s use some type of [[database]] to store data.
+
+The type of //data// (that gets stored in a database) depends on the [[application]].
+For example — a //to-do list// application would store the items in the //to-do list// in the database.
+Alternatively, for example — a //contact list// would store the details of the people in the //contact list// in a database.
+Etc.
+
+Although this was //not// always the case, at a certain point in time, [[relational-database]]s become the dominant form of [[database]].
+(And, as a side note, the [[sql]] querying-language become dominant with it.)
+
+Decades later, after [[relational-database]]s become the dominant, the (poorly named) [[nosql]] databases challenged the dominance of the  [[relational-database]]s.
+
+Another form of [[database]] eventually came into use — the [[blockchain-network]].
+
+§§ Blockchain Network
+
+Similar to how the [[world-wide-web]] can be thought of as a //public decentralized// [[file-system]], [[blockchain-network]]s can be thought of as a //public decentralized// [[database]].
+
+There are different //types// of these [[blockchain-network]]s — and there are a number of (let's say) //orthogonal// ways of classifying [[blockchain-network]]s.
+One of those ways is — how new information gets into the [[blockchain-network]].
+
+Two common ways make sure of —
+
+• [[proof-of-stake]], and
+• [[proof-of-work]].
+
+We are going to focus on [[proof-of-stake]], since it is what is relevant to **liquid staking**.
+
+§§ Proof Of Stake
+
+Many decentralized system need a method of coming to //consensus//.
+
+In the case of a [[database]], the //consensus// is usually about what data //is// (and //is not//) in the database.
+A decentralized system like this is made up of many computers — //how do you get all those computers to agree on what is (and is not) in the datbase//.
+
+A [[blockchain-network]], which is a decentralized system, is no different.
+
+The technique that //some// [[blockchain-network]]s use to come to //consensus// is — [[proof-of-stake]].
+
+The basic idea of [[proof-of-stake]] is —
+You (or anyone else) can create what is called a [[proof-of-stake-validator-node]].
+To create a [[proof-of-stake-validator-node]], typically you need — one or more computers, a public-private key pair, and you need to //stake// a certain amount of the //tokens// or //coins// that are part of the [[blockchain-network]].
+That last //need// is where [[proof-of-stake]] gets its name from.
+Data gets into the [[blockchain-network]] as a series of blocks.
+(A //block// contains a set of data.)
+The [[blockchain-network]] chooses a [[proof-of-stake-validator-node]] to add the next //block// of data.
+The [[proof-of-stake-validator-node]] is //rewarded// for doing this, by being given some //tokens// or //coins// that are part of the [[blockchain-network]].
+
+The schedule by which the [[proof-of-stake-validator-node]] receives the //reward// can vary from [[blockchain-network]] to [[blockchain-network]].
+
+Also, when a [[proof-of-stake-validator-node]] is set up, the //staked// amount can be locked in for a certain period for time.
+
+§§ Liquid
+
+That is what causes the problem.
+
+A [[proof-of-stake-validator-node]] has some amount of //tokens// or //coins// (that are part of the [[blockchain-network]]) locked up.
+While it is locked up —
+They cannot transfer them to anyone else.
+They cannot buy anything with it.
+They cannot sell them.
+They cannot trade them.
+
+Sometimes the lock up period can be a long time.
+Months.
+Maybe even years.
+
+But they might want their //tokens// or //coins// (that are part of the [[blockchain-network]]) now.
+But they are locked up — so what do they do‽
+
+That is where **liquid staking** comes in.
+
+Special system is created where their — when someone stakes their //tokens// or //coins// (that are part of the [[blockchain-network]]) on a [[proof-of-stake-validator-node]], they are given a [[liquid-staking-token]] (**LST**).
+
+That **LST** can be sold, or transfered, etc.
+Probably for less than the ultimate value of the **LST**.
+But through this — they can get a lot of their money now.

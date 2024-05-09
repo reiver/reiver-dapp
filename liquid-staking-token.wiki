@@ -1,0 +1,9 @@
+wiki/1
+
+§ Liquid Staking Token
+
+⸺ by Charles Iliya Krempeaux
+
+A **liquid staking token**, usually shortened to **LST**, is a special **token** given as part of [[liquid-staking]].
+
+See [[liquid-staking]] for more information.
