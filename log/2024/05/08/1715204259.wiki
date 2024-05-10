@@ -8,7 +8,7 @@ wiki/1
 
 I asked //AC// a question relevant to [[dapp]] [[user-experience]]:
 
-― Do you have an opinion of why most crypto people are more likely to trust a web-browser extension rather than a mobile app?
+― Do you have an opinion of why most crypto people are more likely to trust or use a web-browser extension wallet rather than a mobile app wallet?
 
 The response from //AC// was:
 
