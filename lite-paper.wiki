@@ -1,0 +1,21 @@
+wiki/1
+
+§ Lite-Paper
+
+⸺ by Charles Iliya Krempeaux
+
+A **lite-paper**, also written as **litepaper**, can be thought of a shorter version of a [[white-paper]].
+
+Typically a **lite-paper** is written //before// the [[white-paper]] is written, and can be thought of //preview// or a //teaser// of the [[white-paper]]. 
+
+In practice, many who plan to write a [[white-paper]] first write a **lite-paper**, and then expand the **lite-paper** into the [[white-paper]].
+
+§§ Sections
+
+There are many different ways one could structure a **lite-paper**, but — one way a **lite-paper** can be structured is:
+
+• overview
+• motivation
+• mechanism
+• design
+• conclusion
