@@ -22,6 +22,9 @@ There are many different ways one could structure a **lite-paper**, but — one 
 • implementation (also sometimes called "design" or "technology stack")
 • conclusion
 
+It is not uncommon for authors to add additional sections to this.
+For example, "protocol-design".
+
 §§§ Mechanism versus Implementation
 
 With a [[de-fi]] **lite-paper**, the //mechanism// is more about:
