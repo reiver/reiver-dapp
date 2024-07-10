@@ -10,6 +10,8 @@ Typically a **lite-paper** is written //before// the [[white-paper]] is written,
 
 In practice, many who plan to write a [[white-paper]] first write a **lite-paper**, and then expand the **lite-paper** into the [[white-paper]].
 
+**Lite-Papers** were popularized among [[dapp]]s.
+
 §§ Sections
 
 There are many different ways one could structure a **lite-paper**, but — one way a **lite-paper** can be structured is:
