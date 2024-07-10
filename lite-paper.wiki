@@ -19,5 +19,26 @@ There are many different ways one could structure a **lite-paper**, but — one 
 • overview
 • motivation
 • mechanism
-• design (also sometimes called "implementation" or "technology stack")
+• implementation (also sometimes called "design" or "technology stack")
 • conclusion
+
+§§§ Mechanism versus Implementation
+
+With a [[de-fi]] **lite-paper**, the //mechanism// is more about:
+
+• economics mechanism design,
+• mathematics,
+• parameter definitions,
+• formula definitions,
+• sampling,
+• may show how different choices for parameters lead to different results,
+• financial engineering,
+• etc.
+
+With a [[de-fi]] **lite-paper**, the //implmentation// is more about:
+
+• talk about ERC-??? interface(s) used.
+• programming-language choices and possible code,
+• etc.
+
+Often, in the //implmentation// section, the author tries to //not reveal too much// so that others won't copy them before they get to market.
