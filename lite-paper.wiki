@@ -19,5 +19,5 @@ There are many different ways one could structure a **lite-paper**, but — one 
 • overview
 • motivation
 • mechanism
-• design
+• design (also sometimes called "implementation" or "technology stack")
 • conclusion
