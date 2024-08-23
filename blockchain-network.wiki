@@ -1,0 +1,10 @@
+wiki/1
+
+§ Blockchain Network
+
+⸺ by Charles Iliya Krempeaux
+
+A **blockchain network** (not to be confused with a [[blockchain]] [[data-structure]] is a distributed type of distributed [[database]] that uses a [[blockchain]] [[data-structure]]] and some type of [[consensus-algorithm]].
+
+Common [[consensus-algorithm]] used by **blockchain network** include: [[proof-of-work]] and [[proof-of-stake]].
+
